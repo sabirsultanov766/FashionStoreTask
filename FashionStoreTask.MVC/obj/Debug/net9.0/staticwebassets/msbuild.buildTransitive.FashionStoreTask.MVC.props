@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FashionStoreTask.MVC.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\bin\Debug\net9.0\FashionStoreTask.DAL.deps.json
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\bin\Debug\net9.0\FashionStoreTask.DAL.runtimeconfig.json
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\bin\Debug\net9.0\FashionStoreTask.DAL.dll
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\bin\Debug\net9.0\FashionStoreTask.DAL.pdb
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.AssemblyInfo.cs
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.dll
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\refint\FashionStoreTask.DAL.dll
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.pdb
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.genruntimeconfig.cache
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\ref\FashionStoreTask.DAL.dll
