@@ -12,3 +12,4 @@ C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9
 C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.pdb
 C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.genruntimeconfig.cache
 C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\ref\FashionStoreTask.DAL.dll
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.DAL\obj\Debug\net9.0\FashionStoreTask.DAL.sourcelink.json

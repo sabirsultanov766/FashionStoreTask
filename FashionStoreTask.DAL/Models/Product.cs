@@ -12,12 +12,12 @@ namespace FashionStoreTask.DAL.Models
         public string Name { get; set; }
         public double Price { get; set; }
         public string ShortDescription { get; set; }
-        public string ImgUrl { get; set;}
+        public string? ImgUrl { get; set;}
         public bool IsNew { get; set; }
 
         public int? ProductDetailsID { get; set; }
         [ForeignKey("ProductDetailsID")]
 
-        public ProductDetails? productDetails { get; set; }
+        public ProductDetails? productDetails { get; set; } 
     }
 }

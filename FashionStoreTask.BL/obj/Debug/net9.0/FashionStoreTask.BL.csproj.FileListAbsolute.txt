@@ -13,3 +13,4 @@ C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.BL\obj\Debug\net9.
 C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.BL\bin\Debug\net9.0\FashionStoreTask.DAL.dll
 C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.BL\bin\Debug\net9.0\FashionStoreTask.DAL.pdb
 C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.BL\obj\Debug\net9.0\FashionS.53B07FE0.Up2Date
+C:\Users\Sabir\source\repos\FashionStoreTask\FashionStoreTask.BL\obj\Debug\net9.0\FashionStoreTask.BL.sourcelink.json

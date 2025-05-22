@@ -1,0 +1,44 @@
+﻿@model List<Product>
+<div class="card-body">
+    <h4 class="card-title">Bordered table</h4>
+    <p class="card-description">
+        Add class <code>.table-bordered</code>
+    </p>
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th> # </th>
+                    <th>Name </th>
+                    <th>Price</th>
+                    <th>ShortDescription </th>
+                    <th> isNew </th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if(Model is not null)
+                    {
+                        foreach(Product product in Model)
+                        {
+                            <tr>
+                                <td> @product.Id </td>
+                                <td>@product.Name </td>
+                                <td>$@product.Price</td>
+                                <td>@product.ShortDescription</td>
+                                <td>@product.IsNew </td>
+                                @{
+                                    if(product.productDetails is null)
+                                    {
+                                     <a ></a>
+                                    }
+                                }
+                            </tr>
+                        }
+                    }
+                }
+               
+            </tbody>
+        </table>
+    </div>
+</div>

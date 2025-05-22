@@ -13,7 +13,6 @@ namespace FashionStoreTask.BL.ViewModels
         public string Name { get; set; }
         public double Price { get; set; }
         public string ShortDescription { get; set; }
-        public string ImgUrl { get; set; }
         public bool IsNew { get; set; }
     }
 }

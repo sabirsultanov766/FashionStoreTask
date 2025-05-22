@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FashionStoreTask.BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83764054acbcde2f554a1c24a508c575a06f2b88")]
 [assembly: System.Reflection.AssemblyProductAttribute("FashionStoreTask.BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FashionStoreTask.BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

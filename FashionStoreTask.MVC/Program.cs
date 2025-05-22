@@ -8,6 +8,12 @@ namespace FashionStoreTask.MVC
             builder.Services.AddControllersWithViews();
             var app = builder.Build();
             app.UseStaticFiles();
+
+            app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Panel}/{action=Index}/{id?}"
+          );
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{Controller=Home}/{Action=Index}"

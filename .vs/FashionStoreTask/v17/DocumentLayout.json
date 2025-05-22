@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.bl\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|solutionrelative:fashionstoretask.bl\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.bl\\viewmodels\\productpostvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|solutionrelative:fashionstoretask.bl\\viewmodels\\productpostvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|solutionrelative:fashionstoretask.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.bl\\services\\detailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|solutionrelative:fashionstoretask.bl\\services\\detailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.dal\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|solutionrelative:fashionstoretask.dal\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|solutionrelative:fashionstoretask.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|solutionrelative:fashionstoretask.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.dal\\migrations\\20250513145405_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|solutionrelative:fashionstoretask.dal\\migrations\\20250513145405_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.bl\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F840774E-D4CA-4685-A057-F206737626F9}|FashionStoreTask.BL\\FashionStoreTask.BL.csproj|solutionrelative:fashionstoretask.bl\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD86A36-2FAB-4EE7-AA7C-8D89242C2362}|FashionStoreTask.DAL\\FashionStoreTask.DAL.csproj|solutionrelative:fashionstoretask.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\fashionstoretask.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\fashionstoretask.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|c:\\users\\sabir\\source\\repos\\fashionstoretask\\fashionstoretask.mvc\\areas\\admin\\views\\panel\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{281593BB-CF28-40C0-814E-3E839FFB3143}|FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj|solutionrelative:fashionstoretask.mvc\\areas\\admin\\views\\panel\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,165 +33,82 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 300,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 349,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\Services\\ProductServices.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.BL\\Services\\ProductServices.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\Services\\ProductServices.cs",
-              "RelativeToolTip": "FashionStoreTask.BL\\Services\\ProductServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:01:54.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FashionStoreTask.MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:41:10.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FashionStoreTask.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAADgvykAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:39:43.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FashionStoreTask.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T15:31:01.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FashionStoreTask.MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T15:04:55.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Contexts\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.DAL\\Contexts\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Contexts\\AppDBContext.cs",
-              "RelativeToolTip": "FashionStoreTask.DAL\\Contexts\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:48:28.871Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductPostVM.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\ViewModels\\ProductPostVM.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.BL\\ViewModels\\ProductPostVM.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\ViewModels\\ProductPostVM.cs",
-              "RelativeToolTip": "FashionStoreTask.BL\\ViewModels\\ProductPostVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:22:04.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FashionStoreTask.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:58:34.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "ProductDetails.cs",
               "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Models\\ProductDetails.cs",
               "RelativeDocumentMoniker": "FashionStoreTask.DAL\\Models\\ProductDetails.cs",
               "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Models\\ProductDetails.cs",
               "RelativeToolTip": "FashionStoreTask.DAL\\Models\\ProductDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:29:20.821Z"
+              "WhenOpened": "2025-05-19T19:49:06.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Models\\Product.cs",
               "RelativeDocumentMoniker": "FashionStoreTask.DAL\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Models\\Product.cs",
               "RelativeToolTip": "FashionStoreTask.DAL\\Models\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:16:43.757Z"
+              "WhenOpened": "2025-05-19T19:43:33.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Program.cs",
-              "RelativeToolTip": "FashionStoreTask.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:08:33.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250513145405_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Migrations\\20250513145405_Init.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.DAL\\Migrations\\20250513145405_Init.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Migrations\\20250513145405_Init.cs",
-              "RelativeToolTip": "FashionStoreTask.DAL\\Migrations\\20250513145405_Init.cs",
+              "DocumentIndex": 3,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "FashionStoreTask.BL\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\Services\\ProductServices.cs",
+              "RelativeToolTip": "FashionStoreTask.BL\\Services\\ProductServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:54:05.684Z"
+              "WhenOpened": "2025-05-19T19:22:51.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "FashionStoreTask.DAL\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.DAL\\Models\\BaseModel.cs",
-              "RelativeToolTip": "FashionStoreTask.DAL\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FashionStoreTask.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj",
+              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj",
+              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj",
+              "RelativeToolTip": "FashionStoreTask.MVC\\FashionStoreTask.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T17:41:47.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\Services\\DetailsServices.cs",
+              "RelativeDocumentMoniker": "FashionStoreTask.BL\\Services\\DetailsServices.cs",
+              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.BL\\Services\\DetailsServices.cs",
+              "RelativeToolTip": "FashionStoreTask.BL\\Services\\DetailsServices.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:16:00.82Z"
+              "WhenOpened": "2025-05-19T17:39:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tables.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Areas\\Admin\\Views\\Panel\\Tables.cshtml",
+              "RelativeDocumentMoniker": "FashionStoreTask.MVC\\Areas\\Admin\\Views\\Panel\\Tables.cshtml",
+              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\FashionStoreTask\\FashionStoreTask.MVC\\Areas\\Admin\\Views\\Panel\\Tables.cshtml",
+              "RelativeToolTip": "FashionStoreTask.MVC\\Areas\\Admin\\Views\\Panel\\Tables.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:28:52.753Z"
             }
           ]
         }
